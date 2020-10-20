@@ -16,7 +16,6 @@ const CHALLENGES  = {
       id: 2,
       challengeTitle: 'iam_uniqu3',
       challengeBody:
-        "<p> Did you know that files have fingerprints just like us? They *are* just 0s and 1s but they too have fingerprints. The entropy(randomness) lies is how their contents(0s and 1s) are arranged. This fingerprint is often calculated using hash functions, such as SHA256.</p><p> The flag for this challenge is the fingerprint of this <a href='/file.txt'> file</a> calculated using SHA256 hash function. ",
       score: 10,
     },
     {
