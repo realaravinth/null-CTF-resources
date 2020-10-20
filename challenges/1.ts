@@ -69,6 +69,7 @@ const CHALLENGE_1: challenge = {
   id: 1,
   challengeTitle: 'be3p_b00p_be3p_b00p',
   challengeBody,
+//TODO  challengeAnswer: 
   score: 10,
 };
 
