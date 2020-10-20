@@ -1,5 +1,7 @@
 import {challenge} from '../challenges';
 
+const challengeAnswer = '7641648545';
+
 const challengeBody = `
   <p id="Obi-Wan-Kenobi">
   To a computer, everything is either a 1 or a 0. Even if you feed it an image
@@ -12,7 +14,7 @@ const challengeBody = `
 </p>
 <br />
 <button type="submit" onclick="askNicely()">Ask computer nicely</button><br />
-<p id="flag" class="hidden">101010010101010</p>
+<p id="flag" class="hidden">000111000111011110100100110110100001</p>
 <input
   class="textInput"
   id="skywalker"
@@ -69,7 +71,7 @@ const CHALLENGE_1: challenge = {
   id: 1,
   challengeTitle: 'be3p_b00p_be3p_b00p',
   challengeBody,
-//TODO  challengeAnswer: 
+  challengeAnswer,
   score: 10,
 };
 

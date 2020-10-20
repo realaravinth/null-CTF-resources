@@ -29,7 +29,7 @@ const CHALLENGE_7: challenge = {
   challengeTitle: 'R2^_^3_&s%',
   challengeAnswer,
   challengeBody,
-  score: 20,
+  score: 70,
 };
 
 export default CHALLENGE_7;
