@@ -2,6 +2,7 @@ export type challenge = {
   id: number,
   challengeTitle: string,
   challengeBody: string,
+  challengeAnswer: string,
   score: number
 }
 const CHALLENGES  = {
