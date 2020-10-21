@@ -14,9 +14,7 @@ const challengeBody = `
   <br />
   <br />
   Misbehaving server:
-  <a href='${HEARTBEAT_LEADER}'>
-    ${HEARTBEAT_LEADER}
-  >
+  <a href='${HEARTBEAT_LEADER}'>${HEARTBEAT_LEADER}</a>
   <br />
   <br />
   P.S: Apparently, Firefox is fast enough to talk to the misbehaving server!

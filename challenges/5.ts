@@ -3,10 +3,14 @@ import {challenge} from '../challenges';
 const challengeAnswer = ' SC2INcxcddmV2';
 const challengeBody = `
 <p>
-  The flag is hidden in <a href="./voodo.txt" target="_blank">this file</a>. It
+  The flag is hidden in this <a href="./voodo.txt" target="_blank">file</a>. It
   would be very tedious if you look for it manually, something tells me there's
   a better way.
 </p>
+  <br />
+  <br />
+  File:
+<a href="./voodo.txt" target="_blank">voodo.txt</a>.
 `;
 
 const CHALLENGE_5: challenge = {

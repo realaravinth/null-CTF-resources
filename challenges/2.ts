@@ -11,7 +11,11 @@ Did you know that files have fingerprints just like us? They <em>are</em> just 0
 </p>
 <p>
   The flag for this challenge is the SHA256 checksum(fingerprint) of this
-  <a href="/file.txt" target="_blank"> file</a> calculated using SHA256 hash function.
+  <a href="/file.txt" target="_blank">file</a> calculated using SHA256 hash function.
+  <br />
+  <br />
+  File: 
+  <a href="/file.txt" target="_blank">file.txt</a>
 </p> `;
 
 const CHALLENGE_2: challenge = {

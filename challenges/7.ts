@@ -12,15 +12,15 @@ const challengeBody = `
   Please find the password(the flag) hidden in the source code and help the
   rebels live to fight another day.
   <br />
+  <br />
+  <br />
   Vault:
   <a href="https://deathstarvault.herokuapp.com/" target="_blank"
     >https://deathstarvault.herokuapp.com/</a
   >
   <br />
   Source code:
-  <a href="https://srcleak.herokuapp.com/" target="_blank">
-    https://srcleak.herokuapp.com/</a
-  >
+  <a href="https://github.com/realaravinth/death-star" target="_blank">https://github.com/realaravinth/death-star</a>
 </p>
 `;
 

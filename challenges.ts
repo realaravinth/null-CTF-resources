@@ -13,6 +13,7 @@ export type challenge = {
   challengeAnswer: string;
   score: number;
 };
+
 const CHALLENGES = {
   challenges: [
     CHALLENGE_1,
